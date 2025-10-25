@@ -201,3 +201,7 @@ A professional, intelligent, and flexible compiler assistant for PySide6 and dat
 Created with passion by Laroussi Boulanouar 💻🔥
 ```
 
+## ▶️ Watch Video Tutorial :
+
+[![Watch the video](images/video_thumbnail.png)](https://www.facebook.com/share/v/16GB9PQcZb/)
+
